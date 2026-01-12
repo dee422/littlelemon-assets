@@ -5,7 +5,7 @@
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": "10",
-      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/Greek%20salad.png",
+      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/greek_20salad.png",
       "category": "starters"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Lemon Desert",
       "description": "Traditional homemade Italian Lemon Ricotta Cake.",
       "price": "10",
-      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/Lemon%20dessert.png",
+      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/lemon_dessert.png",
       "category": "desserts" 
     },
     {
@@ -21,7 +21,7 @@
       "title": "Grilled Fish",
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
       "price": "10",
-      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/Grilled%20fish.png",
+      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/grilled_fish.png",
       "category": "mains"
     },
     {
@@ -29,7 +29,7 @@
       "title": "Pasta",
       "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
       "price": "10",
-      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/Pasta.png",
+      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/pasta.png",
       "category": "mains"
     },
     {
@@ -37,7 +37,7 @@
       "title": "Bruschetta",
       "description": "Oven-baked bruschetta stuffed with tomatos and herbs.",
       "price": "10",
-      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/Bruschetta.png",
+      "image": "https://raw.githubusercontent.com/dee422/littlelemon-assets/main/images/bruschetta.png",
       "category": "starters"
     }
   ]
